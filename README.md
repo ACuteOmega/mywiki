@@ -1,0 +1,2 @@
+# mywiki
+Mywiki is start.
